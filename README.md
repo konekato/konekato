@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **konekato/konekato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=konekato&theme=great-gatsby&show_icons=true&count_private=true" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konekato&layout=compact&theme=great-gatsby&show_icons=true" />
+</a>
