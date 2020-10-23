@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=konekato&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true" />
 </a>
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konekato&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true" />
-</a>
