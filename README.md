@@ -1,19 +1,17 @@
+```
+$ konekato
 
-<!--
-**konekato/konekato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   __ __
+  / /  /__  _    ___
+ / _ \/ _ \/ _ \/ __\
+/_//_/\___/_//_/\___/  v22.9.10
+Create happiness.
+Be a software engineer.
 
-Here are some ideas to get you started:
+Home page => https://yorokov.com/
+Portfolio => https://yorokov.com/works
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for watching!
 
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=konekato&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true" />
-</a>
+More about me: [Home page](https://yorokov.com/) / [Portfolio](https://yorokov.com/works)
