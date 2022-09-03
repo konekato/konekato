@@ -7,9 +7,7 @@ $ konekato
 /_//_/\___/_//_/\___/  v22.9.10
 Create happiness.
 Be a software engineer.
-
-Home page => https://yorokov.com/
-Portfolio => https://yorokov.com/works
+https://yorokov.com/
 ```
 
 Thanks for watching!
